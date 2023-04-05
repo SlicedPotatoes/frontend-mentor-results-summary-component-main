@@ -83,27 +83,27 @@ p{
 .item p{
   margin-left: auto;
 }
-.reaction{
+.Reaction{
   background-color: hsla(0, 100%, 67%, 0.2);
 }
-.reaction span{
+.Reaction span{
   color: hsl(0, 100%, 67%);
 }
-.memory{
+.Memory{
   background-color: hsla(39, 100%, 56%, 0.2);
 }
-.memory span{
+.Memory span{
   color: hsl(39, 100%, 56%);
 }
-.verbal{
+.Verbal{
   background-color: hsla(166, 100%, 37%, 0.2);
 }
-.verbal span{
+.Verbal span{
   color: hsl(166, 100%, 37%);
 }
-.visual{
+.Visual{
   background-color: hsla(234, 85%, 45%, 0.2);
 }
-.visual span{
+.Visual span{
   color: hsl(234, 85%, 45%);
 }
