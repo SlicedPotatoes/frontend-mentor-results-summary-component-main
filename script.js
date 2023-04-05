@@ -19,6 +19,6 @@ fetch(filePath)
       div.appendChild(spanIcon);
       div.appendChild(spanText);
       div.appendChild(p);
-      card.appendChild(card);
+      card.appendChild(div);
     }
   });
